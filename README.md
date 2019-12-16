@@ -10,7 +10,8 @@ After the user enters search terms, the application the top 20 urls that contain
 ## Execution
 To execute the program:
 1) Download the DEV.zip file from [here](https://drive.google.com/file/d/1GYM5jH5sjLXcpImOfNn7wO8_trT_U62G/view?usp=sharing)
-2) Add it to the source file of the application
+2) Download the dictionary_data.zip file from [here](https://drive.google.com/file/d/15dFb2ePM8lkECQazjOEv_WB77XknlQaZ/view?usp=sharing)
+2) Add both folders to the application (make sure they are titled "DEV" and "dictionary_data")
 1) run the app.py file. ```python3 app.py```
 2) Copy and paste the displayed IP address to your url.
 
